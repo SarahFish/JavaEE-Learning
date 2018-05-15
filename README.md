@@ -44,10 +44,11 @@ All methods are listed as follows.
     - **int[][] b ={{n1,n2},{n3,n4}};** for short;
   - Via intermediate varible
     - Use variable name of an array which stands for its address.
-    
-  **What does array name stands for?**
+  
+  
+**What does array name stands for?**
   - Memory address of the array which is a hash code. 
   - Array name **a** and **b** ,and **b[0]** and **b[1]** of the 2-d array.
   
-  More details in [demo](https://github.com/SarahFish/JavaEE-Learning/blob/master/ArrayDemo.java) and [blog](https://github.com/SarahFish/JavaEE-Learning/blob/master/ArrayDemo.java).
-
+  
+More details in [demo](https://github.com/SarahFish/JavaEE-Learning/blob/master/ArrayDemo.java) and [blog](https://mp.csdn.net/postedit/80329117).
