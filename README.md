@@ -51,4 +51,4 @@ All methods are listed as follows.
   - Array name **a** and **b** ,and **b[0]** and **b[1]** of the 2-d array.
   
   
-More details in [demo](https://github.com/SarahFish/JavaEE-Learning/blob/master/ArrayDemo.java) and [blog](https://mp.csdn.net/postedit/80329117).
+More details in [demo](https://github.com/SarahFish/JavaEE-Learning/blob/master/ArrayDemo.java) and [blog](https://blog.csdn.net/Sarah_Qu/article/details/80329117).
